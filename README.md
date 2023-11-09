@@ -1,2 +1,3 @@
 # basic-boilerplates
-basic
+
+A library for pieces of web apps and such resources
