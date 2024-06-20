@@ -1,9 +1,9 @@
-id | item name | Material | Carat | Silk | Color | Clarity
-1|crimson tear|ruby|2.1|3|#32f00|2
-2|crimson leaf|ruby|2.1|3|#32f00|2
-3|violet tear|ruby|2.1|3|#32f00|2
-12|red cake|ruby|2.1|3|#32f00|2
-4|crimson droplet|ruby|2.1|3|#32f00|2
-7|saturn eye|ruby|2.1|3|#32f00|2
-9|libre violet|ruby|2.1|3|#32f00|2
-8|purple spring|ruby|2.1|3|#32f00|2
+id | item name | Material | Carat | Silk | Color | Clarity | Description
+1|crimson tear|ruby|2.1|3|#32f00|2|meh
+2|crimson leaf|ruby|2.1|3|#32f00|2|meh
+3|violet tear|ruby|2.1|3|#32f00|2|meh
+12|red cake|ruby|2.1|3|#32f00|2|meh
+4|crimson droplet|ruby|2.1|3|#32f00|2|meh
+7|saturn eye|ruby|2.1|3|#32f00|2|meh
+9|hermes eye|emerald|2.1|3|#32f00|2|meh
+8|purple spring|ruby|2.1|3|#32f00|2|meh
